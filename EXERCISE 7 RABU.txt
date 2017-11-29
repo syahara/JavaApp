@@ -1,0 +1,19 @@
+
+SIMPAN "angka pertama"
+SIMPAN "angka kedua"
+HITUNG "angka pertama" dikali "angka kedua"
+TAMPILKAN hasil hitungan
+
+SIMPAN "Saya Belajar JavaScript!"
+IF "Saya Belajar JavaScript!"
+TAMPILKAN "SAYA BISA"
+
+SIMPAN "angka"
+SIMPAN "habis di bagi tiga dan lebih dari satu"
+ULANGI " sampai deret angka tersebut mencapai angka yang disimpan"
+TAMPILKAN "deret angka"
+
+
+
+
+
